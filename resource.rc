@@ -1,0 +1,5 @@
+#include <windows.h>
+#define IDI_ICON1 101
+
+1 RT_MANIFEST "app.manifest"
+IDI_ICON1 ICON "screen.ico"
